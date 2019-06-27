@@ -1,0 +1,6 @@
+.vscode
+*.DS_Store
+*__pycache__
+*.env
+eatmeet_web/static/.webassets-cache
+eatmeet_web/static/gen
